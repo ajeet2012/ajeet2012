@@ -30,6 +30,12 @@ Currently, I am:
 
 ---
 
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet2012&layout=compact)
+
+---
+
 ## 📱 Key Projects
 
 ### 🏦 ENBD Banking App
