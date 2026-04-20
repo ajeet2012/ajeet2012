@@ -1,75 +1,111 @@
 # Hi, I'm Ajeet Sharma 👋
 
-🚀 Senior iOS Developer | 14+ Years Experience  
-📱 Swift • UIKit • SwiftUI • Combine  
-⚛️ Exploring React Native  
-🤖 Automation & CI/CD Enthusiast  
+🚀 Lead iOS Engineer | 14+ Years Experience  
+📱 Swift • UIKit • SwiftUI • Combine • MVVM-C  
+🏦 FinTech & Banking Domain Expert  
+⚛️ Exploring React Native | 🤖 Automation Enthusiast  
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Senior iOS Developer with 14+ years of experience building scalable, high-performance mobile applications. I specialize in Swift, UIKit, and SwiftUI, with a strong focus on clean architecture, performance optimization, and delivering high-quality user experiences.
+I am a Lead iOS Engineer with over 14 years of experience designing, developing, and delivering high-quality mobile applications. I specialize in building scalable architectures using Swift, SwiftUI, and modern iOS frameworks.
 
-I have worked on large-scale applications serving millions of users, contributing across development, architecture, and delivery.
+I have contributed to large-scale applications in the Banking and FinTech domain, including platforms used by millions of users. My focus areas include clean architecture, performance optimization, and delivering secure, user-friendly mobile experiences.
 
 Currently, I am:
-- Building modern apps using SwiftUI (latest tools & APIs)
+- Building modern UI using SwiftUI (latest APIs)
 - Exploring React Native for cross-platform development
-- Enhancing automation workflows, CI/CD pipelines, and testing
+- Strengthening automation, CI/CD, and testing pipelines
+
+---
+
+## 🏗 What I Bring
+
+- 🔹 14+ years of hands-on iOS development experience  
+- 🔹 Expertise in scalable architecture (MVVM, MVVM-C, Clean)  
+- 🔹 Strong experience in Banking & FinTech applications  
+- 🔹 Focus on performance, security, and maintainability  
+- 🔹 Experience working in Agile teams and large-scale projects  
+
+---
+
+## 📱 Key Projects
+
+### 🏦 ENBD Banking App
+- Built secure modules including login, fund transfer, and transactions  
+- Integrated REST APIs with secure authentication & encryption  
+- Contributed to scalable and maintainable architecture  
+
+### 💳 Liv. Digital Banking App
+- Developed onboarding, KYC, and card management features  
+- Improved user experience with modern UI and smooth flows  
+- Ensured compliance with banking-grade security standards  
+
+### 🚗 Velo Driver (Ride Sharing)
+- Real-time ride tracking and trip analytics  
+- Driver profile management and communication features  
+- Optimized performance using Core Location  
+
+### 🍔 Palatable (Food Delivery)
+- Real-time order tracking and cart management  
+- Firebase integration for dynamic updates  
+- Payment and notification systems  
+
+### 🔧 Cummins Guidanz™
+- Diagnostic tools for industrial engines  
+- Real-time service data integration  
+- Focus on scalability and maintainability  
+
+### 🎬 BigFlix (Streaming App)
+- Video playback and content browsing  
+- Subscription and backend integration  
+- Performance optimization for smooth streaming  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 📱 iOS Development
+Languages & Frameworks
 - Swift, Objective-C  
 - UIKit, SwiftUI  
 - Combine, Async/Await  
 
-### 🏗 Architecture
-- MVVM, VIPER, Clean Architecture  
-- Modular Development (Swift Package Manager)  
+Architecture
+- MVVM, MVVM-C, Clean Architecture  
+- Modular Apps (Swift Package Manager)  
 
-### ⚙️ Tools & Automation
+Tools & Automation
 - Git, Fastlane, Jenkins, Bitrise  
-- Unit Testing, UI Testing  
 - CI/CD Pipelines  
+- Unit Testing & UI Testing  
 
-### ⚛️ Cross Platform
-- React Native (Learning & Building Projects)
-
----
-
-## 📌 Featured Work
-
-- 🔹 Scalable iOS Architecture (Modular + Clean Architecture)
-- 🔹 Advanced SwiftUI Components & Animations
-- 🔹 Networking Layer with Combine & Async/Await
-- 🔹 Automation Setup using Fastlane & CI/CD
-- 🔹 React Native Learning Projects
+Other Skills
+- REST API Integration  
+- Multithreading & Performance Optimization  
+- SwiftData  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-GitHub Stats
+🔗 https://github.com/ajeet2012  
+Showcasing iOS projects, reusable components, scalable architecture, and React Native learning.
 
 ---
 
-## 📺 YouTube Channel
+## 📺 YouTube
 
-🎥 I share iOS development content, SwiftUI tutorials, and practical learning:
-
-👉 https://www.youtube.com/@iOSDev2025
+🎥 I share iOS development, SwiftUI tutorials, and practical content:  
+👉 https://www.youtube.com/@iOSDev2025  
 
 ---
 
 ## 📫 Contact Me
 
-📧 Email: ajeetmca2012@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/ajeet-sharma-253b2393/
+📧 ajeetmca2012@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/ajeet-sharma-253b2393/  
 
 ---
 
-⭐️ *Always learning, building, and improving as a mobile develo
+⭐️ *Focused on building scalable, high-quality mobile applications and continuously evolving with modern technologie
