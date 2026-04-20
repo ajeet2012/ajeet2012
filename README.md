@@ -95,7 +95,7 @@ Other Skills
 ## 📊 GitHub
 
 🔗 https://github.com/ajeet2012  
-Showcasing iOS projects, reusable components, scalable architecture, and React Native learning.
+Showcasing iOS projects, reusable components, scalable architecture.
 
 ---
 
