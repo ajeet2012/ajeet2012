@@ -36,13 +36,7 @@ Currently, I am:
 
 <p align="center">
 
-  <img
-
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajeet2012&theme=default"
-
-    alt="Most Used Languages"
-
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajeet2012&theme=default" alt="Most Used Languages"/>
 
 </p>
 ---
