@@ -27,18 +27,6 @@ Currently, I am:
 - 🔹 Strong experience in Banking & FinTech applications  
 - 🔹 Focus on performance, security, and maintainability  
 - 🔹 Experience working in Agile teams and large-scale projects  
-
----
-
-## 📊 Most Used Languages
-
-
-
-<p align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajeet2012&theme=default" alt="Most Used Languages"/>
-
-</p>
 ---
 
 ## 📱 Key Projects
