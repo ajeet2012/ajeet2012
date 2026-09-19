@@ -32,8 +32,6 @@ Currently, I am:
 
 ## 📊 Most Used Languages
 
-## 📊 Most Used Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ajeet2012&layout=compact&langs_count=8)
 ---
 
