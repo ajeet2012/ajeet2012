@@ -32,11 +32,6 @@ Currently, I am:
 
 ## 📊 Most Used Languages
 
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8" />
-
-</p>
 
 ---
 
